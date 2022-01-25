@@ -1,37 +1,55 @@
-## Welcome to GitHub Pages
+# Yevhenii Romanyuk
 
-You can use the [editor on GitHub](https://github.com/Hotpick/my-cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+_Frontend engineer based in Lviv, Ukraine_ <br>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Email](mailto:hotpick18@gmail.com) / [LinkedIn](https://www.linkedin.com/in/yevhenii-romanyuk-0b086311b/)
 
-### Markdown
+## 👩🏼‍💻 Technical Experience
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Magento2 Frontend Engineer** @ [White Label](https://ffflabel.com/) _(Sep 2021 - Present)_ <br>
+    - involved in two projects for a big USA retailer
+  - **_Technologies used:_** HTML, CSS(less), JavaScript(Jquery, require js, knockout js, underscore js), PHP, Docker, VueStorefront, MacOs, Magento2.
+  <br><br>
 
-```markdown
-Syntax highlighted code block
+**Magento2 Frontend Engineer** @ [Elogic](https://elogic.co/) _(Jul 2019 - Nov 2021)_ <br>
+Magento 2 golden partner.
+    - worked on international projects(USA, Germany, Poland, Israel)
+    - have some experience with Vue js on [VueStorefront](https://www.vuestorefront.io/)
+    - worked by scrum on big teams
+  - **_Technologies used:_** HTML, CSS(less), JavaScript(Jquery, require js, knockout js, underscore js), PHP, Docker, VueStorefront, MacOs, Magento2.
+  <br><br>
 
-# Header 1
-## Header 2
-### Header 3
+**Magento2 Frontend Engineer** @ [Smile](https://smile-ukraine.com/) _(Mar 2018 - Jul 2019)_ <br>
+Smile Ukraine is a part of Smile group founded in 1991, the recognized French leader in the integration of open source solutions (OSS).
+    - developed magento2 themes
+    - implement custom jquery-ui components
+    - developed responsive web design
+    - do checkout customisations with knockout js 
+  - **_Technologies used:_** HTML, CSS(less), JavaScript(Jquery, require js, knockout js, underscore js), PHP, LXC containers, Linux, Magento2.
+  <br><br>
 
-- Bulleted
-- List
+**Frontend Engineer** @ [Avivi](https://www.avivi.pro/) _(Mar 2017 - Mar 2018)_ <br>
+Company focused on Bitrix development.
+  - Develop websites for Bitrix.
+  - Worked with high-loaded sites
+  - Work with CVS – GIT
+  - **_Technologies used:_** HTML, CSS, JavaScript Jquery.
+  <br><br>
 
-1. Numbered
-2. List
+**Frontend Engineer** @ ZS group _(Dec 2016 - Mar 2017)_ <br>
+Startup focused on marketing landing pages and on corporate wordpress sites .
+  - Develop websites using latest technology’s and trend’s in web-developing – HTML5(canvas/video etc.), CSS3(flexbox, animation)/JS animation
+  - Using Bootstrap 4 grid to develop responsive web pages
+  - Create and use own task-manager builds in GULP to accelerate develop process
+  - Develop PSD to HTML/CSS/JS pixel by pixel and guarantee work in all 2 last versions of browsers
+  - Work with CVS – GIT
+  - Perform browser testing and debugging
+  - Optimize website performance using latest technology
+  - **_Technologies used:_** HTML, CSS, JavaScript Jquery.
+  <br><br>
 
-**Bold** and _Italic_ and `Code` text
+## 💬 Languages
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Hotpick/my-cv/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+**Ukrainian**: Native<br>
+**English**: B2
+<br><br>
